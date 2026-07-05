@@ -1,0 +1,7 @@
+pandas>=1.5
+numpy
+sqlalchemy
+requests
+plotly
+scipy
+jupyterlab
